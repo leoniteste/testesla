@@ -54,10 +54,10 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 ## 🤓 Autor
 
 <div align="center" >
-<a href="https://www.linkedin.com/in/leonisantos/">
+<a href="https://www.linkedin.com/in/leonisantosfernandes/">
  <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="160px;" alt="perfil"/>
  <br />
- <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantosf/" title="Linkedin">🚀
+ <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantosfernandes/" title="Linkedin">🚀
 </a>
  <br />
  <br />
