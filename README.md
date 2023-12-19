@@ -2,8 +2,8 @@
   <img alt="Demonstração" src="projectbanner.png" width="1000">
 </p>
 
-<div align="left">
-	<h1 align="left">Jordan Shoes</h1>
+<div align="center">
+	<h1 align="left" font-size="10px">Jordan Shoes</h1>
 	<p align="left">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
 </div>
 <h3  align="left">
