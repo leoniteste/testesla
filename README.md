@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-	<h1 align="left" ">Jordan Shoes</h1>
-	<p align="left">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
+	<h1 align="center" ">Jordan Shoes</h1>
+	<p align="center">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
 </div>
 <h3  align="center">
 		✅ Status: Completed ✅
