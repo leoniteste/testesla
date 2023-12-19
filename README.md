@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-	<h1 align="center">Jordan Shoes</h1>
+	<h1 align="center">Pokedex</h1>
 	<p align="center">Projeto criado em React.js e CSS, página responsiva para os tênis do jogador de basquete Michael Jordan.</p>
 </div>
 
