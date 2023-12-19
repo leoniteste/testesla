@@ -57,7 +57,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 <a href="https://www.linkedin.com/in/leonisantos/">
  <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="160px;" alt="perfil"/>
  <br />
- <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantos/" title="Linkedin">🚀
+ <b>Leôni Santos</b></a> <a href="www.linkedin.com/in/leonisantosf/" title="Linkedin">🚀
 </a>
  <br />
  <br />
