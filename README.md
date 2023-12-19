@@ -33,7 +33,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## ⚠️ Pre-requisitos
+## ⚠️ Prerequisitos
 
 Antes de começar, você precisará ter as seguintes ferramentas instaladas em sua máquina:
  <br />
