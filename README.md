@@ -1,11 +1,9 @@
-<p align="center">
-  <img alt="Demonstração" src="projectbanner.png" width="900">
-</p>
+![Logo do projeto](projectbanner.png)
 
-<div align="center">
-	<h1 align="center" ">Jordan Shoes</h1>
-	<p align="center">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
-</div>
+# Jordan Shoes
+
+Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers
+
 <h3  align="center">
 		✅ Status: Completed ✅
 </h3>
@@ -29,8 +27,9 @@ Project developed through the Codelândia challenge. A project consisting of a p
 
 The following tools were used in the construction of the project:
 
-- [React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## ⚠️ Pre-requisites
 
@@ -51,9 +50,7 @@ Before you begin, you will need to have the following tools installed on your ma
 # Alternatively, access it through the link above in the repository.
 ```
 
-<!-- AUTHOR -->
-
-## 🤓 Author
+## 🤓 Autor
 
 <div align="center" >
 <a href="https://www.linkedin.com/in/leonisantos/">
@@ -67,6 +64,6 @@ Made with ❤️ by Leôni Santos 👋🏽 Get in touch!
 
 </div>
 
-## 📕License
+## 📕 Licença
 
 This project is under the [MIT](./LICENSE).
