@@ -1,4 +1,6 @@
-![Logo do projeto](projectbanner.png)
+<p align="center">
+  <img alt="Demonstração" src="projectbanner.png" width="950">
+</p>
 
 <div align="center">
 	<h1 align="center">Jordan Shoes</h1>
