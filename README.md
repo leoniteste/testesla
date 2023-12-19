@@ -6,10 +6,10 @@
 	<h1 align="left" ">Jordan Shoes</h1>
 	<p align="left">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
 </div>
-<h3  align="left">
+<h3  align="center">
 		✅ Status: Completed ✅
 </h3>
-<div align="left">
+<div align="center">
 <a href="https://jordanshoesr.vercel.app/">Access the application by clicking here!</a>
 </div>
 
@@ -55,7 +55,7 @@ Before you begin, you will need to have the following tools installed on your ma
 
 ## 🤓 Author
 
-<div align="left" >
+<div align="center" >
 <a href="https://www.linkedin.com/in/leonisantos/">
  <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="200px;" alt="perfil"/>
  <br />
