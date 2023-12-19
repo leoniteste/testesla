@@ -6,7 +6,7 @@
 </div>
 
 <h3  align="center">
-		✅ Status: Completado ✅
+		✅ Status: Completo ✅
 </h3>
 <div align="center">
 <a href="https://jordanshoesr.vercel.app/">Acesse a aplicação clicando aqui!</a>
@@ -14,12 +14,11 @@
 
 ## 🗒️ Conteúdo
 
-- [About](#-About)
-- [Demonstration](#-Demonstration)
-- [Technologies](#-Technologies)
-- [Pre-requisites](#-Pre-requisites)
-- [How to run?](#-Running-the-application)
-- [Author](#-Author)
+- [Sobre](#-Sobre)
+- [Tecnologias](#-Tecnologias)
+- [Pre-requisitos](#-Pre-requisitos)
+- [Como rodar?](#-Rodando-a-aplicação)
+- [Autor](#-Autor)
 
 ## 📖 Sobre
 Projeto desenvolvido por meio do desafio Codelândia. Um projeto composto por uma página que exibe modelos de tênis Air Jordan, uma página responsiva para todas as telas. A ideia por trás da criação do projeto foi para experiência e estudos.
