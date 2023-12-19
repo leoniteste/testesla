@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-	<h1 align="left" style="font-size: larger;">Jordan Shoes</h1>
+	<h1 align="left" ">Jordan Shoes</h1>
 	<p align="left">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
 </div>
 <h3  align="left">
