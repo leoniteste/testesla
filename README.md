@@ -1,8 +1,9 @@
 ![Logo do projeto](projectbanner.png)
 
-# Jordan Shoes
-
-Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers
+<div align="center">
+	<h1 align="center">Jordan Shoes</h1>
+	<p align="center">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
+</div>
 
 <h3  align="left">
 		✅ Status: Completed ✅
