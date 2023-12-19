@@ -18,7 +18,7 @@
 
 - [Sobre](#-Sobre)
 - [Tecnologias](#-Tecnologias)
-- [Pre-requisitos](#-Pre-requisitos)
+- [Pre-requisitos](#-Prerequisitos)
 - [Como rodar?](#-Rodando-a-aplicação)
 - [Autor](#-Autor)
 
