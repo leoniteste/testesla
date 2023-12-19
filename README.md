@@ -1,7 +1,7 @@
 
 ![Logo do projeto](https://i.imgur.com/kniMQHu.png)
 
-# Nome do Projeto
+# Tênis Jordan
 
 Uma breve descrição do projeto aqui.
 
