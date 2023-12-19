@@ -2,17 +2,17 @@
 
 <div align="center">
 	<h1 align="center">Jordan Shoes</h1>
-	<p align="center">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
+	<p align="center">Projeto criado em React.js e CSS, página responsiva para os tênis do jogador de basquete Michael Jordan.</p>
 </div>
 
 <h3  align="center">
-		✅ Status: Completed ✅
+		✅ Status: Completado ✅
 </h3>
 <div align="center">
-<a href="https://jordanshoesr.vercel.app/">Access the application by clicking here!</a>
+<a href="https://jordanshoesr.vercel.app/">Acesse a aplicação clicando aqui!</a>
 </div>
 
-## 🗒️ Content
+## 🗒️ Conteúdo
 
 - [About](#-About)
 - [Demonstration](#-Demonstration)
@@ -21,50 +21,49 @@
 - [How to run?](#-Running-the-application)
 - [Author](#-Author)
 
-## 📖 About
-Project developed through the Codelândia challenge. A project consisting of a page showcasing models of Air Jordan sneakers, a responsive page for all screens. The idea behind creating the project was for experience and studies.
+## 📖 Sobre
+Projeto desenvolvido por meio do desafio Codelândia. Um projeto composto por uma página que exibe modelos de tênis Air Jordan, uma página responsiva para todas as telas. A ideia por trás da criação do projeto foi para experiência e estudos.
 
-## 🛠 Technologies
+## 🛠 Tecnologias
 
-The following tools were used in the construction of the project:
+As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-## ⚠️ Pre-requisites
+## ⚠️ Pre-requisitos
 
-Before you begin, you will need to have the following tools installed on your machine:
+Antes de começar, você precisará ter as seguintes ferramentas instaladas em sua máquina:
 
 - [VSCode](https://code.visualstudio.com/)
 - [Git](https://git-scm.com)
 - [NPM](https://www.npmjs.com)
 
 
-## 🔥 Running the application
-
+## 🔥 Rodando a aplicação
 ```bash
-# Download this repository.
-# Access the project folder in VSCode.
-# Run in the terminal "npm run dev".
-# The application will start locally on your machine!
-# Alternatively, access it through the link above in the repository.
+# Baixe este repositório.
+# Acesse a pasta do projeto no VSCode.
+# Execute no terminal "npm run dev".
+# A aplicação iniciará localmente em sua máquina!
+# Alternativamente, acesse-a através do link acima no repositório.
 ```
 
 ## 🤓 Autor
 
 <div align="center" >
 <a href="https://www.linkedin.com/in/leonisantos/">
- <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="200px;" alt="perfil"/>
+ <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="180px;" alt="perfil"/>
  <br />
  <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantos/" title="Linkedin">🚀
 </a>
  <br />
  <br />
-Made with ❤️ by Leôni Santos 👋🏽 Get in touch!
+Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!
 
 </div>
 
 ## 📕 Licença
 
-This project is under the [MIT](./LICENSE).
+Este projeto está sob a [MIT](./LICENSE).
