@@ -1,77 +1,74 @@
+<div align="left">
+	<h3 align="left">Jordan Shoes</h3>
+	<p align="left">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
+</div>
+<h3  align="left">
+		✅ Status: Completed ✅
+</h3>
+<div align="left">
+<a href="https://jordanshoesr.vercel.app/">Access the application by clicking here!</a>
+</div>
 
-![Logo do projeto](projectbanner.png)
+## 🗒️ Content
 
-# Tênis Jordan
+- [About](#-About)
+- [Demonstration](#-Demonstration)
+- [Technologies](#-Technologies)
+- [Pre-requisites](#-Pre-requisites)
+- [How to run?](#-Running-the-application)
+- [Author](#-Author)
 
-Uma breve descrição do projeto aqui.
+## 📖 About
+Project developed through the Codelândia challenge. A project consisting of a page showcasing models of Air Jordan sneakers, a responsive page for all screens. The idea behind creating the project was for experience and studies.
 
-## 🔥 Introdução
+## 📺 Demonstration
 
-Coloque aqui as instruções e quais são os objetivos desse projeto, funcionalidades.
+<p align="left">
+  <img alt="Demonstração" src="projectbanner.png" width="1000">
+</p>
 
-### ⚙️ Pré-requisitos
+## 🛠 Technologies
 
-Coloque aqui passo a passo que precisa para instalar o projeto e como instalá-lo.
+The following tools were used in the construction of the project:
 
+- [React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+## ⚠️ Pre-requisites
+
+Before you begin, you will need to have the following tools installed on your machine:
+
+- [VSCode](https://code.visualstudio.com/)
+- [Git](https://git-scm.com)
+- [NPM](https://www.npmjs.com)
+
+
+## 🔥 Running the application
+
+```bash
+# Download this repository.
+# Access the project folder in VSCode.
+# Run in the terminal "npm run dev".
+# The application will start locally on your machine!
+# Alternatively, access it through the link above in the repository.
 ```
-Pode inserir exemplos.
-```
 
-### 🔨 Guia de instalação
+<!-- AUTHOR -->
 
-Explique aqui um passo a passo mostrando como deve executar para ter um ambiente de desenvolvimento em execução, desde instalar e rodar o projeto.
+## 🤓 Author
 
-Etapas para instalar:
+<div align="left" >
+<a href="https://www.linkedin.com/in/leonisantos/">
+ <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="200px;" alt="perfil"/>
+ <br />
+ <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantos/" title="Linkedin">🚀
+</a>
+ <br />
+ <br />
+Made with ❤️ by Leôni Santos 👋🏽 Get in touch!
 
-```
-Codigo, exemplos
-```
-Passo 2:
-```
-Codigo, exemplos
-```
+</div>
 
+## 📕License
 
-## 🛠️ Executando os testes (caso tenha testes)
-
-Explique como executar os testes automatizados para este sistema.
-
-```
-Coloque exemplos
-```
-
-## 📦 Tecnologias usadas:
-
-Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
-
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-## 👷 Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
-
-* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
-* **Sujeito Programador** - *Frontend do projeto* - [@sujeitoprogramador](https://github.com/devfraga)
-
-## 📄 Licença
-
-Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
-
-## 💭 FAQ - Perguntas frequentes
-
-#### Questão 1
-
-Resposta 1
-
-#### Questão 2
-
-Resposta 2
-
-
-## 💡 Expressões de gratidão
-
-* Um agradecimento publicamente.
-* Para suporte, mande um email para nome@teste.com.
-* Link para o seu linkedin [Meu linkedin](https://url_do_link)
+This project is under the [MIT](./LICENSE).
