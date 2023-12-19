@@ -4,10 +4,10 @@
 
 Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers
 
-<h3  align="center">
+<h3  align="left">
 		✅ Status: Completed ✅
 </h3>
-<div align="center">
+<div align="left">
 <a href="https://jordanshoesr.vercel.app/">Access the application by clicking here!</a>
 </div>
 
@@ -27,9 +27,9 @@ Project developed through the Codelândia challenge. A project consisting of a p
 
 The following tools were used in the construction of the project:
 
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## ⚠️ Pre-requisites
 
