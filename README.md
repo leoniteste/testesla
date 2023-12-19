@@ -34,7 +34,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ## ⚠️ Pre-requisitos
 
 Antes de começar, você precisará ter as seguintes ferramentas instaladas em sua máquina:
-
+ <br />
 - [VSCode](https://code.visualstudio.com/)
 - [Git](https://git-scm.com)
 - [NPM](https://www.npmjs.com)
