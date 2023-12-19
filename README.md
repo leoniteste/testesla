@@ -5,10 +5,10 @@
 	<p align="center">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
 </div>
 
-<h3  align="left">
+<h3  align="center">
 		✅ Status: Completed ✅
 </h3>
-<div align="left">
+<div align="center">
 <a href="https://jordanshoesr.vercel.app/">Access the application by clicking here!</a>
 </div>
 
