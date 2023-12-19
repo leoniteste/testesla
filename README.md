@@ -1,3 +1,7 @@
+<p align="left">
+  <img alt="Demonstração" src="projectbanner.png" width="1000">
+</p>
+
 <div align="left">
 	<h1 align="left">Jordan Shoes</h1>
 	<p align="left">Project created in React.js and CSS, responsive page for basketball athlete Michael Jordan's sneakers.</p>
@@ -20,12 +24,6 @@
 
 ## 📖 About
 Project developed through the Codelândia challenge. A project consisting of a page showcasing models of Air Jordan sneakers, a responsive page for all screens. The idea behind creating the project was for experience and studies.
-
-## 📺 Demonstration
-
-<p align="left">
-  <img alt="Demonstração" src="projectbanner.png" width="1000">
-</p>
 
 ## 🛠 Technologies
 
