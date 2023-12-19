@@ -44,7 +44,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 
 ## 🔥 Rodando a aplicação
 ```bash
-# Baixe este repositório.
+# Clone este repositório.
 # Acesse a pasta do projeto no VSCode.
 # Execute no terminal "npm run dev".
 # A aplicação iniciará localmente em sua máquina!
